@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.43.1",
-    "@iconify-json/lucide": "^1.2.155",
+    "@iconify-json/lucide": "^1.2.157",
     "@n0ctanedev/starlight-n0ct": "file:..",
     "astro": "^7.4.12",
     "astro-icon": "^1.2.0",
